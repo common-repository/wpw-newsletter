@@ -1,0 +1,16 @@
+.alert {
+	padding:10px 0px;
+}
+
+.alert p {
+	padding:0;
+	margin:0;
+}
+
+.wpw-succesfull {
+	color:green;
+}
+
+.wpw-error {
+	color:red;
+}
